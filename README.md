@@ -12,3 +12,6 @@ So now, this is free for all forever. Call it giving back to the community after
 
 ## Usage
 Download the most recent release, open a terminal pointing to the directory that contains the `BiphaseDecoder.exe` and run `BiphaseDecoder.exe input.wma output.rshw --verbose` or (`.\BiphaseDecoder.exe input.wma output.rshw --verbose` in Powershell), of course, subbing the file names for whatever you want.
+
+## More?
+Maybe! I work for a living, so small stuff like this really wont be my main priority, but I've got a patreon if any of you would like to support me. https://www.patreon.com/c/cometdev
