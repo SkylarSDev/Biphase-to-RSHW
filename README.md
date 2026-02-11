@@ -8,6 +8,8 @@ After that, I departed from the RAE+CEC fandoms and instead went full-force on m
 
 Somehow, in all the years I've stayed away from the fandom, this software is still a well-gatekept secret, and I've never truly been a fan of gatekeeping for no good reason.
 
+So now, this is free for all forever. Call it giving back to the community after all this time.
+
 ## Usage
 
 TBA
