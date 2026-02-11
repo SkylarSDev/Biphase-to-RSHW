@@ -1,2 +1,0 @@
-F:\Skylar\BiphaseDecoder\bin\Release\net8.0\win-x64\publish\BiphaseDecoder.pdb
-F:\Skylar\BiphaseDecoder\bin\Release\net8.0\win-x64\publish\BiphaseDecoder.exe
