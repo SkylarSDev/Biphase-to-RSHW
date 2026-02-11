@@ -1,5 +1,5 @@
 # Biphase-to-RSHW
-A program that converts from the raw Biphase Show Files to an RSHW file that can be used in SPTE/RR-Engine.
+A program that converts from the raw Biphase Mark WMA Show Files to an RSHW file that can be used in SPTE/RR-Engine.
 
 ## Why?
 I spent quite a long time in the Rock-afire Explosion and CEC communities, and for a good chunk of that, a rumor flew around that there was this mystical program that could port the real show files into digital. I really didn't believe it, but one day I got a video of it in action as well as some first-hand accounts from people who used it. This was in roughly 2022.
