@@ -12,4 +12,4 @@ So now, this is free for all forever. Call it giving back to the community after
 
 ## Usage
 
-TBA
+Download the most recent release, open a terminal pointing to the directory that contains the `BiphaseDecoder.exe` and run `BiphaseDecoder.exe input.wma output.rshw --verbose`, of course, subbing the file names for whatever you want.
